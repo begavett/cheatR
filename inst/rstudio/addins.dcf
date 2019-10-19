@@ -1,0 +1,230 @@
+Name: Machine Learning Modelling in R
+Description: Displays Machine Learning Modelling in R cheatsheet
+Binding: cs_Machine_Learning_Modelling_in_R
+Interactive: true
+
+Name: base-r
+Description: Displays base-r cheatsheet
+Binding: cs_base_r
+Interactive: true
+
+Name: caret
+Description: Displays caret cheatsheet
+Binding: cs_caret
+Interactive: true
+
+Name: cartography
+Description: Displays cartography cheatsheet
+Binding: cs_cartography
+Interactive: true
+
+Name: data-import
+Description: Displays data-import cheatsheet
+Binding: cs_data_import
+Interactive: true
+
+Name: data-transformation
+Description: Displays data-transformation cheatsheet
+Binding: cs_data_transformation
+Interactive: true
+
+Name: data-visualization-2.1
+Description: Displays data-visualization-2.1 cheatsheet
+Binding: cs_data_visualization_2.1
+Interactive: true
+
+Name: datatable
+Description: Displays datatable cheatsheet
+Binding: cs_datatable
+Interactive: true
+
+Name: declaredesign
+Description: Displays declaredesign cheatsheet
+Binding: cs_declaredesign
+Interactive: true
+
+Name: distr6
+Description: Displays distr6 cheatsheet
+Binding: cs_distr6
+Interactive: true
+
+Name: estimatr
+Description: Displays estimatr cheatsheet
+Binding: cs_estimatr
+Interactive: true
+
+Name: eurostat
+Description: Displays eurostat cheatsheet
+Binding: cs_eurostat
+Interactive: true
+
+Name: factors
+Description: Displays factors cheatsheet
+Binding: cs_factors
+Interactive: true
+
+Name: gganimate
+Description: Displays gganimate cheatsheet
+Binding: cs_gganimate
+Interactive: true
+
+Name: golem
+Description: Displays golem cheatsheet
+Binding: cs_golem
+Interactive: true
+
+Name: gwasrapidd
+Description: Displays gwasrapidd cheatsheet
+Binding: cs_gwasrapidd
+Interactive: true
+
+Name: h2o
+Description: Displays h2o cheatsheet
+Binding: cs_h2o
+Interactive: true
+
+Name: how-big-is-your-graph
+Description: Displays how-big-is-your-graph cheatsheet
+Binding: cs_how_big_is_your_graph
+Interactive: true
+
+Name: keras
+Description: Displays keras cheatsheet
+Binding: cs_keras
+Interactive: true
+
+Name: leaflet
+Description: Displays leaflet cheatsheet
+Binding: cs_leaflet
+Interactive: true
+
+Name: lubridate
+Description: Displays lubridate cheatsheet
+Binding: cs_lubridate
+Interactive: true
+
+Name: mlr
+Description: Displays mlr cheatsheet
+Binding: cs_mlr
+Interactive: true
+
+Name: mosaic
+Description: Displays mosaic cheatsheet
+Binding: cs_mosaic
+Interactive: true
+
+Name: nardl
+Description: Displays nardl cheatsheet
+Binding: cs_nardl
+Interactive: true
+
+Name: package-development
+Description: Displays package-development cheatsheet
+Binding: cs_package_development
+Interactive: true
+
+Name: parallel_computation
+Description: Displays parallel_computation cheatsheet
+Binding: cs_parallel_computation
+Interactive: true
+
+Name: purrr
+Description: Displays purrr cheatsheet
+Binding: cs_purrr
+Interactive: true
+
+Name: quanteda
+Description: Displays quanteda cheatsheet
+Binding: cs_quanteda
+Interactive: true
+
+Name: randomizr
+Description: Displays randomizr cheatsheet
+Binding: cs_randomizr
+Interactive: true
+
+Name: regex
+Description: Displays regex cheatsheet
+Binding: cs_regex
+Interactive: true
+
+Name: reticulate
+Description: Displays reticulate cheatsheet
+Binding: cs_reticulate
+Interactive: true
+
+Name: rmarkdown-2.0
+Description: Displays rmarkdown-2.0 cheatsheet
+Binding: cs_rmarkdown_2.0
+Interactive: true
+
+Name: rphylopic
+Description: Displays rphylopic cheatsheet
+Binding: cs_rphylopic
+Interactive: true
+
+Name: rstudio-ide
+Description: Displays rstudio-ide cheatsheet
+Binding: cs_rstudio_ide
+Interactive: true
+
+Name: sf
+Description: Displays sf cheatsheet
+Binding: cs_sf
+Interactive: true
+
+Name: shiny
+Description: Displays shiny cheatsheet
+Binding: cs_shiny
+Interactive: true
+
+Name: sjmisc
+Description: Displays sjmisc cheatsheet
+Binding: cs_sjmisc
+Interactive: true
+
+Name: sparklyr
+Description: Displays sparklyr cheatsheet
+Binding: cs_sparklyr
+Interactive: true
+
+Name: strings
+Description: Displays strings cheatsheet
+Binding: cs_strings
+Interactive: true
+
+Name: survminer
+Description: Displays survminer cheatsheet
+Binding: cs_survminer
+Interactive: true
+
+Name: syntax
+Description: Displays syntax cheatsheet
+Binding: cs_syntax
+Interactive: true
+
+Name: teachR
+Description: Displays teachR cheatsheet
+Binding: cs_teachR
+Interactive: true
+
+Name: tidyeval
+Description: Displays tidyeval cheatsheet
+Binding: cs_tidyeval
+Interactive: true
+
+Name: tsbox
+Description: Displays tsbox cheatsheet
+Binding: cs_tsbox
+Interactive: true
+
+Name: vtree
+Description: Displays vtree cheatsheet
+Binding: cs_vtree
+Interactive: true
+
+Name: xplain
+Description: Displays xplain cheatsheet
+Binding: cs_xplain
+Interactive: true
+

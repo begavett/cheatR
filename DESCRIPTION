@@ -1,0 +1,20 @@
+Package: cheatR
+Type: Package
+Title: Display RStudio Cheat Sheets in the RStudio Viewer
+Version: 0.1.0
+Date: 2019-10-19
+Authors@R: person("Brandon", "Gavett", role =c("aut","cre"), email="brandon.gavett@uwa.edu.au", comment=c(ORCID = "0000-0003-1938-1854"))
+Description: This package contains two functions. The main function, cs, downloads and displays a selected RStudio Cheat Sheet in the RStudio Viewer pane. The second function, csOptions, prints the names of all the cheat sheets available at the RStudio GitHub; these names can be sent as character strings to the cs function. This package also installs RStudio Addins, allowing for cheat sheets to also be imported using the dropdown menu.
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: true
+Imports:
+  rvest,
+  stringr,
+  rstudioapi,
+  rmarkdown,
+  pdftools,
+  magrittr,
+  xml2
+Suggests: 
+    testthat
