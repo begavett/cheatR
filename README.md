@@ -1,4 +1,4 @@
-# installation
+# Installation
 
 ```{r}
 if (!requireNamespace("remotes")) {
