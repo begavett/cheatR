@@ -19,16 +19,19 @@ A string of length 1. See Details section for a list of sheet names. Also see th
 \details{
 sheetname options are taken directly from the Rstudio GitHub (https://github.com/rstudio/cheatsheets) and include the following:
 
-"Machine Learning Modelling in R", "base-r", "caret", "cartography",
-"data-import", "data-transformation", "data-visualization-2.1",
+"Machine Learning Modelling in R", "SamplingStrata", "base-r",
+"bayesplot", "bcea", "caret", "cartography", "collapse", "data-import",
+"data-transformation", "data-visualization-2.1", "data-visualization",
 "datatable", "declaredesign", "distr6", "estimatr", "eurostat",
 "factors", "gganimate", "golem", "gwasrapidd", "h2o", "how-big-is-your-graph",
-"keras", "leaflet", "lubridate", "mlr", "mosaic", "nardl", "package-development",
-"parallel_computation", "purrr", "quanteda",
-"randomizr", "regex", "reticulate", "rmarkdown-2.0",
-"rphylopic", "rstudio-ide", "sf", "shiny", "sjmisc", "sparklyr",
-"strings", "survminer", "syntax", "teachR", "tidyeval", "tsbox",
-"vtree", "xplain"
+"imputeTS", "jfa", "keras", "labelled", "leaflet", "lubridate",
+"mlr", "mosaic", "nardl", "nimble", "oSCR", "overviewR", "package-development",
+"packagefinder", "parallel_computation", "plumber", "purrr",
+"quanteda", "randomizr", "regex", "reticulate", "rmarkdown-2.0",
+"rmarkdown", "rphylopic", "rstudio-ide", "sas-r", "sf", "shiny",
+"sjmisc", "slackr", "sparklyr", "stata2r", "add stata2r ", "strings",
+"survminer", "syntax", "teachR", "tidyeval", "tidyr", "time-series",
+"tsbox", "vegan", "vtree", "xplain"
 
 Note that if the original cheatsheets do not have some or all fonts embedded, users will see "Fontconfig error: Cannot load default config file" and the cheatsheet will fail to display properly within RStudio.
 
