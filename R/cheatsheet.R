@@ -10,7 +10,7 @@ csOptions <- function(){
     unlist() %>%
     trimws() %>%
     gsub(., pattern = ".pdf$", replacement = "")
-  csOpts[!(csOpts %in% c("0-template", "Update quanteda", "New version of regex"))]
+  csOpts[!(csOpts %in% c("0-template", "Update quanteda", "New version of regex", "add stata2r"))]
 }
 
 cs <- function(sheetname = "base-r"){
