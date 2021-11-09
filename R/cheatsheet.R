@@ -1,4 +1,7 @@
 csOptions <- function(){
+
+  require(magrittr)
+
   csURL <- "https://github.com/rstudio/cheatsheets"
   csOpts <- csURL %>%
     xml2::read_html() %>%
@@ -15,11 +18,12 @@ cs <- function(sheetname = "base-r"){
   mdFile <- tempfile(pattern = "rmd", fileext = ".Rmd")
   writeLines(paste0('
 ---
+title: "Cheatsheet"
 output: html_document
 ---
 
 ```{r image, echo = FALSE}
-sheetURL <- "https://github.com/rstudio/cheatsheets/raw/master/', sheetname, '.pdf"
+sheetURL <- "https://github.com/rstudio/cheatsheets/raw/main/', sheetname, '.pdf"
 tempSheet <- tempfile(pattern = "temp", fileext = ".pdf")
 download.file(sheetURL, tempSheet, mode = "wb", quiet = TRUE)
 x <- suppressMessages(pdftools::pdf_convert(tempSheet, format = "png", verbose = FALSE, dpi = 300))
