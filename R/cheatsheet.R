@@ -18,7 +18,7 @@ cs <- function(sheetname = "base-r"){
   mdFile <- tempfile(pattern = "rmd", fileext = ".Rmd")
   writeLines(paste0('
 ---
-title: "&nbsp;"
+pagetitle: "Cheatsheet"
 output: html_document
 ---
 
