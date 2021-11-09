@@ -1,335 +1,335 @@
-Name: Machine Learning Modelling in R 
-Description: Displays Machine Learning Modelling in R cheatsheet 
+Name: Machine Learning Modelling in R
+Description: Displays Machine Learning Modelling in R cheatsheet
 Binding: cs_Machine_Learning_Modelling_in_R
 Interactive: true
 
- Name: SamplingStrata 
-Description: Displays SamplingStrata cheatsheet 
+Name: SamplingStrata
+Description: Displays SamplingStrata cheatsheet
 Binding: cs_SamplingStrata
 Interactive: true
 
- Name: base-r 
-Description: Displays base-r cheatsheet 
+Name: base-r
+Description: Displays base-r cheatsheet
 Binding: cs_base_r
 Interactive: true
 
- Name: bayesplot 
-Description: Displays bayesplot cheatsheet 
+Name: bayesplot
+Description: Displays bayesplot cheatsheet
 Binding: cs_bayesplot
 Interactive: true
 
- Name: bcea 
-Description: Displays bcea cheatsheet 
+Name: bcea
+Description: Displays bcea cheatsheet
 Binding: cs_bcea
 Interactive: true
 
- Name: caret 
-Description: Displays caret cheatsheet 
+Name: caret
+Description: Displays caret cheatsheet
 Binding: cs_caret
 Interactive: true
 
- Name: cartography 
-Description: Displays cartography cheatsheet 
+Name: cartography
+Description: Displays cartography cheatsheet
 Binding: cs_cartography
 Interactive: true
 
- Name: collapse 
-Description: Displays collapse cheatsheet 
+Name: collapse
+Description: Displays collapse cheatsheet
 Binding: cs_collapse
 Interactive: true
 
- Name: data-import 
-Description: Displays data-import cheatsheet 
+Name: data-import
+Description: Displays data-import cheatsheet
 Binding: cs_data_import
 Interactive: true
 
- Name: data-transformation 
-Description: Displays data-transformation cheatsheet 
+Name: data-transformation
+Description: Displays data-transformation cheatsheet
 Binding: cs_data_transformation
 Interactive: true
 
- Name: data-visualization-2.1 
-Description: Displays data-visualization-2.1 cheatsheet 
+Name: data-visualization-2.1
+Description: Displays data-visualization-2.1 cheatsheet
 Binding: cs_data_visualization_2.1
 Interactive: true
 
- Name: data-visualization 
-Description: Displays data-visualization cheatsheet 
+Name: data-visualization
+Description: Displays data-visualization cheatsheet
 Binding: cs_data_visualization
 Interactive: true
 
- Name: datatable 
-Description: Displays datatable cheatsheet 
+Name: datatable
+Description: Displays datatable cheatsheet
 Binding: cs_datatable
 Interactive: true
 
- Name: declaredesign 
-Description: Displays declaredesign cheatsheet 
+Name: declaredesign
+Description: Displays declaredesign cheatsheet
 Binding: cs_declaredesign
 Interactive: true
 
- Name: distr6 
-Description: Displays distr6 cheatsheet 
+Name: distr6
+Description: Displays distr6 cheatsheet
 Binding: cs_distr6
 Interactive: true
 
- Name: estimatr 
-Description: Displays estimatr cheatsheet 
+Name: estimatr
+Description: Displays estimatr cheatsheet
 Binding: cs_estimatr
 Interactive: true
 
- Name: eurostat 
-Description: Displays eurostat cheatsheet 
+Name: eurostat
+Description: Displays eurostat cheatsheet
 Binding: cs_eurostat
 Interactive: true
 
- Name: factors 
-Description: Displays factors cheatsheet 
+Name: factors
+Description: Displays factors cheatsheet
 Binding: cs_factors
 Interactive: true
 
- Name: gganimate 
-Description: Displays gganimate cheatsheet 
+Name: gganimate
+Description: Displays gganimate cheatsheet
 Binding: cs_gganimate
 Interactive: true
 
- Name: golem 
-Description: Displays golem cheatsheet 
+Name: golem
+Description: Displays golem cheatsheet
 Binding: cs_golem
 Interactive: true
 
- Name: gwasrapidd 
-Description: Displays gwasrapidd cheatsheet 
+Name: gwasrapidd
+Description: Displays gwasrapidd cheatsheet
 Binding: cs_gwasrapidd
 Interactive: true
 
- Name: h2o 
-Description: Displays h2o cheatsheet 
+Name: h2o
+Description: Displays h2o cheatsheet
 Binding: cs_h2o
 Interactive: true
 
- Name: how-big-is-your-graph 
-Description: Displays how-big-is-your-graph cheatsheet 
+Name: how-big-is-your-graph
+Description: Displays how-big-is-your-graph cheatsheet
 Binding: cs_how_big_is_your_graph
 Interactive: true
 
- Name: imputeTS 
-Description: Displays imputeTS cheatsheet 
+Name: imputeTS
+Description: Displays imputeTS cheatsheet
 Binding: cs_imputeTS
 Interactive: true
 
- Name: jfa 
-Description: Displays jfa cheatsheet 
+Name: jfa
+Description: Displays jfa cheatsheet
 Binding: cs_jfa
 Interactive: true
 
- Name: keras 
-Description: Displays keras cheatsheet 
+Name: keras
+Description: Displays keras cheatsheet
 Binding: cs_keras
 Interactive: true
 
- Name: labelled 
-Description: Displays labelled cheatsheet 
+Name: labelled
+Description: Displays labelled cheatsheet
 Binding: cs_labelled
 Interactive: true
 
- Name: leaflet 
-Description: Displays leaflet cheatsheet 
+Name: leaflet
+Description: Displays leaflet cheatsheet
 Binding: cs_leaflet
 Interactive: true
 
- Name: lubridate 
-Description: Displays lubridate cheatsheet 
+Name: lubridate
+Description: Displays lubridate cheatsheet
 Binding: cs_lubridate
 Interactive: true
 
- Name: mlr 
-Description: Displays mlr cheatsheet 
+Name: mlr
+Description: Displays mlr cheatsheet
 Binding: cs_mlr
 Interactive: true
 
- Name: mosaic 
-Description: Displays mosaic cheatsheet 
+Name: mosaic
+Description: Displays mosaic cheatsheet
 Binding: cs_mosaic
 Interactive: true
 
- Name: nardl 
-Description: Displays nardl cheatsheet 
+Name: nardl
+Description: Displays nardl cheatsheet
 Binding: cs_nardl
 Interactive: true
 
- Name: nimble 
-Description: Displays nimble cheatsheet 
+Name: nimble
+Description: Displays nimble cheatsheet
 Binding: cs_nimble
 Interactive: true
 
- Name: oSCR 
-Description: Displays oSCR cheatsheet 
+Name: oSCR
+Description: Displays oSCR cheatsheet
 Binding: cs_oSCR
 Interactive: true
 
- Name: overviewR 
-Description: Displays overviewR cheatsheet 
+Name: overviewR
+Description: Displays overviewR cheatsheet
 Binding: cs_overviewR
 Interactive: true
 
- Name: package-development 
-Description: Displays package-development cheatsheet 
+Name: package-development
+Description: Displays package-development cheatsheet
 Binding: cs_package_development
 Interactive: true
 
- Name: packagefinder 
-Description: Displays packagefinder cheatsheet 
+Name: packagefinder
+Description: Displays packagefinder cheatsheet
 Binding: cs_packagefinder
 Interactive: true
 
- Name: parallel_computation 
-Description: Displays parallel_computation cheatsheet 
+Name: parallel_computation
+Description: Displays parallel_computation cheatsheet
 Binding: cs_parallel_computation
 Interactive: true
 
- Name: plumber 
-Description: Displays plumber cheatsheet 
+Name: plumber
+Description: Displays plumber cheatsheet
 Binding: cs_plumber
 Interactive: true
 
- Name: purrr 
-Description: Displays purrr cheatsheet 
+Name: purrr
+Description: Displays purrr cheatsheet
 Binding: cs_purrr
 Interactive: true
 
- Name: quanteda 
-Description: Displays quanteda cheatsheet 
+Name: quanteda
+Description: Displays quanteda cheatsheet
 Binding: cs_quanteda
 Interactive: true
 
- Name: randomizr 
-Description: Displays randomizr cheatsheet 
+Name: randomizr
+Description: Displays randomizr cheatsheet
 Binding: cs_randomizr
 Interactive: true
 
- Name: regex 
-Description: Displays regex cheatsheet 
+Name: regex
+Description: Displays regex cheatsheet
 Binding: cs_regex
 Interactive: true
 
- Name: reticulate 
-Description: Displays reticulate cheatsheet 
+Name: reticulate
+Description: Displays reticulate cheatsheet
 Binding: cs_reticulate
 Interactive: true
 
- Name: rmarkdown-2.0 
-Description: Displays rmarkdown-2.0 cheatsheet 
+Name: rmarkdown-2.0
+Description: Displays rmarkdown-2.0 cheatsheet
 Binding: cs_rmarkdown_2.0
 Interactive: true
 
- Name: rmarkdown 
-Description: Displays rmarkdown cheatsheet 
+Name: rmarkdown
+Description: Displays rmarkdown cheatsheet
 Binding: cs_rmarkdown
 Interactive: true
 
- Name: rphylopic 
-Description: Displays rphylopic cheatsheet 
+Name: rphylopic
+Description: Displays rphylopic cheatsheet
 Binding: cs_rphylopic
 Interactive: true
 
- Name: rstudio-ide 
-Description: Displays rstudio-ide cheatsheet 
+Name: rstudio-ide
+Description: Displays rstudio-ide cheatsheet
 Binding: cs_rstudio_ide
 Interactive: true
 
- Name: sas-r 
-Description: Displays sas-r cheatsheet 
+Name: sas-r
+Description: Displays sas-r cheatsheet
 Binding: cs_sas_r
 Interactive: true
 
- Name: sf 
-Description: Displays sf cheatsheet 
+Name: sf
+Description: Displays sf cheatsheet
 Binding: cs_sf
 Interactive: true
 
- Name: shiny 
-Description: Displays shiny cheatsheet 
+Name: shiny
+Description: Displays shiny cheatsheet
 Binding: cs_shiny
 Interactive: true
 
- Name: sjmisc 
-Description: Displays sjmisc cheatsheet 
+Name: sjmisc
+Description: Displays sjmisc cheatsheet
 Binding: cs_sjmisc
 Interactive: true
 
- Name: slackr 
-Description: Displays slackr cheatsheet 
+Name: slackr
+Description: Displays slackr cheatsheet
 Binding: cs_slackr
 Interactive: true
 
- Name: sparklyr 
-Description: Displays sparklyr cheatsheet 
+Name: sparklyr
+Description: Displays sparklyr cheatsheet
 Binding: cs_sparklyr
 Interactive: true
 
- Name: stata2r 
-Description: Displays stata2r cheatsheet 
+Name: stata2r
+Description: Displays stata2r cheatsheet
 Binding: cs_stata2r
 Interactive: true
 
- Name: add stata2r  
-Description: Displays add stata2r  cheatsheet 
+Name: add stata2r
+Description: Displays add stata2r  cheatsheet
 Binding: cs_add_stata2r_
 Interactive: true
 
- Name: strings 
-Description: Displays strings cheatsheet 
+Name: strings
+Description: Displays strings cheatsheet
 Binding: cs_strings
 Interactive: true
 
- Name: survminer 
-Description: Displays survminer cheatsheet 
+Name: survminer
+Description: Displays survminer cheatsheet
 Binding: cs_survminer
 Interactive: true
 
- Name: syntax 
-Description: Displays syntax cheatsheet 
+Name: syntax
+Description: Displays syntax cheatsheet
 Binding: cs_syntax
 Interactive: true
 
- Name: teachR 
-Description: Displays teachR cheatsheet 
+Name: teachR
+Description: Displays teachR cheatsheet
 Binding: cs_teachR
 Interactive: true
 
- Name: tidyeval 
-Description: Displays tidyeval cheatsheet 
+Name: tidyeval
+Description: Displays tidyeval cheatsheet
 Binding: cs_tidyeval
 Interactive: true
 
- Name: tidyr 
-Description: Displays tidyr cheatsheet 
+Name: tidyr
+Description: Displays tidyr cheatsheet
 Binding: cs_tidyr
 Interactive: true
 
- Name: time-series 
-Description: Displays time-series cheatsheet 
+Name: time-series
+Description: Displays time-series cheatsheet
 Binding: cs_time_series
 Interactive: true
 
- Name: tsbox 
-Description: Displays tsbox cheatsheet 
+Name: tsbox
+Description: Displays tsbox cheatsheet
 Binding: cs_tsbox
 Interactive: true
 
- Name: vegan 
-Description: Displays vegan cheatsheet 
+Name: vegan
+Description: Displays vegan cheatsheet
 Binding: cs_vegan
 Interactive: true
 
- Name: vtree 
-Description: Displays vtree cheatsheet 
+Name: vtree
+Description: Displays vtree cheatsheet
 Binding: cs_vtree
 Interactive: true
 
- Name: xplain 
-Description: Displays xplain cheatsheet 
+Name: xplain
+Description: Displays xplain cheatsheet
 Binding: cs_xplain
 Interactive: true
 
